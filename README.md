@@ -4,8 +4,8 @@
 
 Tengo 19 años y soy un apasionado de la tecnología, la programación y el arte.  
 Actualmente vivo en Lima, Perú y estudio ingeniería electrónica.  
-
-![Mi Foto](https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/463843841_122095025948597869_7524875811243839107_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHHYixplpYR-CYPabbJSHy76yScw22bA9XrJJzDbZsD1QMvwPrZH8gu5ttn6TaKjrjPEoE7MmZWA_fxdLaAip12&_nc_ohc=PiYpuHc7_YoQ7kNvgEIPfkc&_nc_oc=AdhYUSQVPqpcex8qVVBLU97F-xufvcbBNqui0CkTddz9wqxUP1A9_-OIBbBC9NzEgVsGqvUaJ3jGM0o7hOwG_bEn&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=AzpDtqVRv1PDwB8xG6Skn8J&oh=00_AYAE-LfaCL44sbQ8RMdX2tcAoiQp4NTA8MOuXKERNEqj9Q&oe=67A8B8A1)  
+ 
+<img src="https://scontent-lim1-1.xx.fbcdn.net/v/t39.30808-6/463843841_122095025948597869_7524875811243839107_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHHYixplpYR-CYPabbJSHy76yScw22bA9XrJJzDbZsD1QMvwPrZH8gu5ttn6TaKjrjPEoE7MmZWA_fxdLaAip12&_nc_ohc=PiYpuHc7_YoQ7kNvgEIPfkc&_nc_oc=AdhYUSQVPqpcex8qVVBLU97F-xufvcbBNqui0CkTddz9wqxUP1A9_-OIBbBC9NzEgVsGqvUaJ3jGM0o7hOwG_bEn&_nc_zt=23&_nc_ht=scontent-lim1-1.xx&_nc_gid=AzpDtqVRv1PDwB8xG6Skn8J&oh=00_AYAE-LfaCL44sbQ8RMdX2tcAoiQp4NTA8MOuXKERNEqj9Q&oe=67A8B8A1" alt="Descripción de la imagen" width="200">
 
 ---
 
