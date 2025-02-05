@@ -31,5 +31,5 @@ También me interesa desarrollar **videojuegos** y moderar webs de juegos, o inc
 ---
 
 ## 📖 Guía sobre Markdown  
-📌 [Ver guía]()
+📌 [Ver guía](https://github.com/blackalpha342/Mi-primer-repositorio/blob/main/markdown-guide.md)
 > _Este es mi primer comentario en GitHub._
