@@ -1,38 +1,4 @@
-# Mi-primer-repositorio
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-# Angelo Belfiore ⚡
-
-Tengo 19 años, actualmente vivo en Lima, Perú y soy un estudiante de ingeniería electrónica y un apasionado con el progreso, la tecnología, la programación y el arte.
-
----
-
-## Tabla de contenidos  
-- [Introducción al Markdown](#introducción-al-markdown)  
-- [Introducción a GitHub](#introducción-a-github)  
-- [Crear una cuenta en GitHub](#crear-una-cuenta-en-github)  
-- [Crear un repositorio](#crear-un-repositorio)  
-
----
-
-## Mi visión de crecimiento como desarrollador  
-
-Mi objetivo es aprender lenguajes de programación como Python, HTML, Javascript, CSS, etc., para poder actualizarme sobre el metaverso, participar en proyectos iniciando como junior y adquirir suficiente experiencia para ser un senior. Además, me gustaría desarrollar videojuegos, moderar webs de juegos o incluso iniciar mi propio proyecto.
-
----
-
-## Mis Redes:  
-🔗 [Mi perfil de GitHub](https://github.com/tu-usuario)  
-
----
-
-## Guía sobre Markdown  
-Aquí puedes encontrar una guía útil sobre **Markdown**:  
-📌 [Guía de Markdown](https://www.markdownguide.org/)
 
 # Angelo Belfiore ⚡  
 
@@ -65,6 +31,5 @@ También me interesa desarrollar **videojuegos** y moderar webs de juegos, o inc
 ---
 
 ## 📖 Guía sobre Markdown  
-📌 [Ver guía](https://www.markdownguide.org/)  
-
+📌 [Ver guía]()
 > _Este es mi primer comentario en GitHub._
